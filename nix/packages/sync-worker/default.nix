@@ -114,7 +114,13 @@
 
   meta = with lib; {
     description = "Logseq db-sync worker";
-    license = licenses.mit;
+    homepage = "https://logseq.com";
+    license = licenses.agpl3Plus;
+
+    # TODO: check compat with other platforms
+    platforms = platforms.linux;
+
     mainProgram = "logseq-sync-worker";
+    sourceProvenance = with sourceTypes; [ fromSource ];
   };
 })
