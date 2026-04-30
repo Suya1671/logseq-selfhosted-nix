@@ -1,0 +1,23 @@
+{
+    "logseq": {
+        "cargoLock": null,
+        "date": "2026-05-01",
+        "extract": null,
+        "name": "logseq",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "logseq",
+            "repo": "logseq",
+            "rev": "9cfbaf80dcc98d691bc76d4eb99f2d57c7c209fc",
+            "sha256": "sha256-+uB22r+siz/BEOXkoA+TsvBcUg2z074EpslUg1c2yR8=",
+            "sparseCheckout": [],
+            "type": "github"
+        },
+        "version": "9cfbaf80dcc98d691bc76d4eb99f2d57c7c209fc"
+    }
+}

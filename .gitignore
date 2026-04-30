@@ -1,0 +1,6 @@
+.devenv
+.direnv
+
+# testing files
+data/
+result

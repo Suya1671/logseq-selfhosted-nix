@@ -1,0 +1,5 @@
+[logseq]
+src.git = "https://github.com/logseq/logseq.git"
+fetch.github = "logseq/logseq"
+
+src.branch = "master"
