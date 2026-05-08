@@ -8,14 +8,14 @@
 {
   logseq = {
     pname = "logseq";
-    version = "9cfbaf80dcc98d691bc76d4eb99f2d57c7c209fc";
+    version = "08a479f2c8d5ee386eb2ac588ecb0803f3304875";
     src = fetchFromGitHub {
       owner = "logseq";
       repo = "logseq";
-      rev = "9cfbaf80dcc98d691bc76d4eb99f2d57c7c209fc";
+      rev = "08a479f2c8d5ee386eb2ac588ecb0803f3304875";
       fetchSubmodules = false;
-      sha256 = "sha256-+uB22r+siz/BEOXkoA+TsvBcUg2z074EpslUg1c2yR8=";
+      sha256 = "sha256-f8h9bsevBpIKdjeGfQk/ac2sSIulTiL6jQCXHTD4r1I=";
     };
-    date = "2026-05-01";
+    date = "2026-05-08";
   };
 }

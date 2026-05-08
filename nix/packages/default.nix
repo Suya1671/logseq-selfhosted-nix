@@ -38,7 +38,8 @@
         ${inputs.clj-nix.packages.${pkgs.stdenv.hostPlatform.system}.deps-lock}/bin/deps-lock --bb
         cp deps-lock.json "$SYNC_LOCK_FILE"
 
-        rm -rf "$WORKDIR"
+        echo "$WORKDIR"
+        # rm -rf "$WORKDIR"
       '';
     };
   };

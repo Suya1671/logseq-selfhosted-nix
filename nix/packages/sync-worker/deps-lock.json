@@ -25,9 +25,9 @@
     {
       "lib": "datascript/datascript",
       "url": "https://github.com/logseq/datascript",
-      "rev": "f91fec561ee2c11d6bf323feae365e9033585411",
+      "rev": "3f141af97b70e1f14c65eaa119acd822ebece37e",
       "git-dir": "https/github.com/logseq/datascript",
-      "hash": "sha256-9Sw58d3v3MDwCJxbOOVB9wMAexNtyOdbkxqm3w1+eG4="
+      "hash": "sha256-hFO/uUzO9hISSD5tEGkHhN56+GD6RtOUZGCNwWXlVCQ="
     },
     {
       "lib": "io.github.clj-kondo/clj-kondo-bb",
