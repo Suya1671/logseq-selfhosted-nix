@@ -1,7 +1,7 @@
 {
     "logseq": {
         "cargoLock": null,
-        "date": "2026-07-12",
+        "date": "2026-07-17",
         "extract": null,
         "name": "logseq",
         "passthru": null,
@@ -13,11 +13,11 @@
             "name": null,
             "owner": "logseq",
             "repo": "logseq",
-            "rev": "4e372adffd5342d9b5a012aecf6454e2d6be8203",
-            "sha256": "sha256-JItDNhj/RWFTIiDqYyZzTOULjumbWkYAfGvdfPOwVR8=",
+            "rev": "a4963dca579f42817135d8473166a03fa7ea2409",
+            "sha256": "sha256-Ql6AVmLjmyoi9x8qId3PdrfH5zKS3qgFOi/R9dOK6wc=",
             "sparseCheckout": [],
             "type": "github"
         },
-        "version": "4e372adffd5342d9b5a012aecf6454e2d6be8203"
+        "version": "a4963dca579f42817135d8473166a03fa7ea2409"
     }
 }
